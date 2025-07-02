@@ -19,4 +19,4 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           git pull
-          git push --force https://pararthdave:${HF_TOKEN}@huggingface.co/spaces/pararthdave/mcp-sentiment main
+          git push https://pararthdave:${HF_TOKEN}@huggingface.co/spaces/pararthdave/mcp-sentiment main
