@@ -1,5 +1,5 @@
 ---
-title: Template Final Assignment
+title: MCP Sentiment Analysis
 emoji: 🕵🏻‍♂️
 colorFrom: indigo
 colorTo: indigo
